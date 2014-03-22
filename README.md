@@ -1,0 +1,1 @@
+ListViewDemo will demonstrate how we will use a Custom Adapter to populate a ListView in Android Application. This source code will also give an example for implementation of ListView and how to uses it methods.
